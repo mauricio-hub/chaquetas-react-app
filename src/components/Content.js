@@ -12,7 +12,7 @@ export const Content = () => {
 			<p>Descripcion: {item.descripcion}</p>
 			<p>Talla: {item.tallas}</p>
 			<p className="price">
-			 <span class="precio">
+			 <span className="precio">
 			 {item.precio}</span></p>
 
 			<div className="btn">Comparar</div>
