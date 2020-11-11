@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chaquetas-react-app/static/css/main.7cdc8ad6.chunk.css",
+    "main.js": "/chaquetas-react-app/static/js/main.a7010796.chunk.js",
+    "main.js.map": "/chaquetas-react-app/static/js/main.a7010796.chunk.js.map",
+    "runtime-main.js": "/chaquetas-react-app/static/js/runtime-main.22e5b69c.js",
+    "runtime-main.js.map": "/chaquetas-react-app/static/js/runtime-main.22e5b69c.js.map",
+    "static/js/2.27bcbfe3.chunk.js": "/chaquetas-react-app/static/js/2.27bcbfe3.chunk.js",
+    "static/js/2.27bcbfe3.chunk.js.map": "/chaquetas-react-app/static/js/2.27bcbfe3.chunk.js.map",
+    "index.html": "/chaquetas-react-app/index.html",
+    "static/css/main.7cdc8ad6.chunk.css.map": "/chaquetas-react-app/static/css/main.7cdc8ad6.chunk.css.map",
+    "static/js/2.27bcbfe3.chunk.js.LICENSE.txt": "/chaquetas-react-app/static/js/2.27bcbfe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e5b69c.js",
+    "static/js/2.27bcbfe3.chunk.js",
+    "static/css/main.7cdc8ad6.chunk.css",
+    "static/js/main.a7010796.chunk.js"
+  ]
+}
